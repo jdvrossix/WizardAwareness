@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { NavigationMenu } from "@/components/ui/navigation-menu";
-import Logo from "../public/logo1.jpg";
+import Logo from "/public/logo1.jpg";
 
 const Navbar = () => {
     return (

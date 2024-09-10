@@ -15,7 +15,7 @@ const ClasesYFormaciones = () => {
           <div className="w-full md:w-1/3 flex flex-col items-center space-y-8">
             <div className="relative w-full max-w-xs">
               <img
-                src="./Nivel1WA.png" // Reemplaza con la URL correcta de la imagen
+                src="/Nivel1WA.png" // Reemplaza con la URL correcta de la imagen
                 alt="Nivel 1 Cover"
                 className="w-full h-auto object-cover rounded-lg shadow-lg transition-transform duration-500 ease-in-out transform hover:scale-105"
               />
@@ -40,7 +40,7 @@ const ClasesYFormaciones = () => {
           <div className="w-full md:w-1/3 flex flex-col items-center space-y-8">
             <div className="relative w-full max-w-xs">
               <img
-                src="./Nivel2WA.png" // Reemplaza con la URL correcta de la imagen
+                src="/Nivel2WA.png" // Reemplaza con la URL correcta de la imagen
                 alt="Nivel II Cover"
                 className="w-full h-auto object-cover rounded-lg shadow-lg transition-transform duration-500 ease-in-out transform hover:scale-105"
               />
@@ -65,7 +65,7 @@ const ClasesYFormaciones = () => {
           <div className="w-full md:w-1/3 flex flex-col items-center space-y-8">
             <div className="relative w-full max-w-xs">
               <img
-                src="./EWA.png" // Reemplaza con la URL correcta de la imagen
+                src="/EWA.png" // Reemplaza con la URL correcta de la imagen
                 alt="EWA Cover"
                 className="w-full h-auto object-cover rounded-lg shadow-lg transition-transform duration-500 ease-in-out transform hover:scale-105"
               />

@@ -2,7 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
-import CoverImage from "../public/img01WA.png"; // Asegúrate de que la ruta sea correcta y la imagen esté disponible
+import CoverImage from "/public/img01WA.png"; 
 
 const Hero = () => {
   return (

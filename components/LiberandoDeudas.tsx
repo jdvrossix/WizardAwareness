@@ -44,7 +44,7 @@ const LiberandoDeudas = () => {
         <div className="w-full md:w-1/2 flex justify-center">
           <div className="relative group">
             <img
-              src="./img03WA.png" // Asegúrate de que la ruta de la imagen sea correcta
+              src="/img03WA.png" // Asegúrate de que la ruta de la imagen sea correcta
               alt="Imagen ilustrativa de Wizard Awareness"
               className="w-full max-w-md object-cover rounded-lg shadow-lg transition-transform duration-500 ease-in-out transform group-hover:scale-105"
             />

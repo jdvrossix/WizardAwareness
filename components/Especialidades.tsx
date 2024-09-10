@@ -17,7 +17,7 @@ const Especialidades = () => {
           <div className="w-full md:w-1/2 flex flex-col items-center md:items-start space-y-8">
             <div className="relative w-full max-w-xs mx-auto">
               <img
-                src="./ADNWA.png" // Reemplaza con la URL correcta de la imagen
+                src="/ADNWA.png" // Reemplaza con la URL correcta de la imagen
                 alt="ADN Wizard Awareness Cover"
                 className="w-full h-auto object-cover rounded-lg shadow-lg transition-transform duration-500 ease-in-out transform hover:scale-105"
               />
@@ -64,7 +64,7 @@ const Especialidades = () => {
           <div className="w-full md:w-1/2 flex flex-col items-center md:items-start space-y-8">
             <div className="relative w-full max-w-xs mx-auto">
               <img
-                src="./img06WA.png" // Reemplaza con la URL correcta de la imagen
+                src="/img06WA.png" // Reemplaza con la URL correcta de la imagen
                 alt="Relaciónmagic Cover"
                 className="w-full h-auto object-cover rounded-lg shadow-lg transition-transform duration-500 ease-in-out transform hover:scale-105"
               />

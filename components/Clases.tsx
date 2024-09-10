@@ -15,7 +15,7 @@ const Clases = () => {
           <div className="w-full md:w-1/2 flex flex-col items-center md:items-start space-y-8">
             <div className="relative w-full max-w-xs mx-auto">
               <img
-                src="./img04WA.png" // Reemplaza con la URL correcta de la imagen
+                src="/img04WA.png" // Reemplaza con la URL correcta de la imagen
                 alt="Animalmagic Cover"
                 className="w-full h-auto object-cover rounded-lg shadow-lg transition-transform duration-500 ease-in-out transform hover:scale-105"
               />
@@ -52,7 +52,7 @@ const Clases = () => {
           <div className="w-full md:w-1/2 flex flex-col items-center md:items-start space-y-8">
             <div className="relative w-full max-w-xs mx-auto">
               <img
-                src="./img05WA.png" // Reemplaza con la URL correcta de la imagen
+                src="/img05WA.png" // Reemplaza con la URL correcta de la imagen
                 alt="Lipomagic Cover"
                 className="w-full h-auto object-cover rounded-lg shadow-lg transition-transform duration-500 ease-in-out transform hover:scale-105"
               />

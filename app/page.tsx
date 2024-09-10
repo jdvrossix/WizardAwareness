@@ -4,7 +4,6 @@ import Sponsors from "@/components/VideoPrincipal";
 import About from "@/components/About";
 import LD from "@/components/LiberandoDeudas";
 import Clases from "@/components/Clases";
-
 import Features from "@/components/Features";
 import Services from "@/components/Services";
 import CTA from "@/components/CTA";
